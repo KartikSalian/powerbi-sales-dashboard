@@ -29,7 +29,6 @@ This project is a Power BI dashboard analyzing sales performance. It includes ke
 ## 🛠️ Tools Used
 - **Power BI** for data visualization
 - **Power Query** for data transformation
-- 
 - **Excel/CSV** as a data source (used python for converting csv to excel and understanding the data)
 
 ## 📌 How to Use
